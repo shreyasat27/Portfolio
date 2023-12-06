@@ -329,8 +329,9 @@ body.light-theme {
 }
 
 .home__img {
-  max-width: 400px;
-  padding-bottom: 30%;
+  max-width: 270px;
+  padding-left: 1em;
+  align-self: center;
 }
 
 .home__handle {
